@@ -11,10 +11,15 @@ url: # the base hostname & protocol for your site
 author: citicraft.github.op
 
 street_address: 35-05 30TH Street
+
 city: Astoria  
+
 state: NY
+
 zip_code: 11106
+
 country: United States of America
+
 phone: 
 
 # homepage tiles
