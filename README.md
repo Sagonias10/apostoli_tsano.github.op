@@ -1,3 +1,4 @@
+# site settings
 title: Citi Craft Corp.
 subtitle: by Enton and Robert
 email: info.citicraft@gmail.com
