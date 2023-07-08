@@ -1,6 +1,7 @@
-body {
+</html>
+</body> 
+{
 background-color: #121212;
-
 }
 .menu {
 }
