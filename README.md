@@ -3,9 +3,13 @@ title: Citi Craft Corp.
 subtitle: by Enton and Robert
 
 email: info.citicraft@gmail.com
+
 description: We provide high quality interior and exterior renovation for apartments, as well as houses.We are able to help customers envision the space and provide options to help maximize storage and flow of a space. We are proud of the detailed, quality clean work that we do.
+
 url: # the base hostname & protocol for your site
+
 author: citicraft.github.op
+
 street_address: 35-05 30TH Street
 city: Astoria  
 state: NY
